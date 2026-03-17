@@ -64,7 +64,7 @@
 
   <h2>📊 Coding Activity</h2>
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=DinhHoang03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" height="160" alt="Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=JavaGuy03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" height="160" alt="Stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavaGuy03&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160" alt="Languages" />
   </div>
   
