@@ -65,11 +65,11 @@
   <h2>📊 Coding Activity</h2>
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=DinhHoang03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" height="160" alt="Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinhHoang03&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160" alt="Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavaGuy03&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160" alt="Languages" />
   </div>
   
   <br>
-  <img src="https://streak-stats.demolab.com?user=DinhHoang03&theme=tokyonight&hide_border=true&background=0D1117&date_format=j%20M%5B%20Y%5D" alt="Streak Graph" width="800" />
+  <img src="https://streak-stats.demolab.com?user=JavaGuy03&theme=tokyonight&hide_border=true&background=0D1117&date_format=j%20M%5B%20Y%5D" alt="Streak Graph" width="800" />
 
   <br>
 
