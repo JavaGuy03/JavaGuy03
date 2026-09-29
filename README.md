@@ -8,7 +8,8 @@
 
   <p align="center">
     I'm a final-year student at <b>Hanoi University of Mining and Geology (HUMG)</b>.<br>
-    Passionate about building <b>secure systems</b>, <b>microservices</b>, and optimizing <b>backend performance</b>.
+    Passionate about building <b>secure systems</b>, <b>microservices</b>, and optimizing <b>backend performance</b>.<br>
+    Hands-on with <b>enterprise integration</b>, <b>event streaming</b>, and <b>container platforms</b>.
   </p>
 
   <br>
@@ -30,6 +31,29 @@
             <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white" />
             <img src="https://img.shields.io/badge/Keycloak-ADD8E6?style=for-the-badge&logo=keycloak&logoColor=black" />
             <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+        </td>
+    </tr>
+    <tr>
+        <td align="center"><b>IBM Integration</b></td>
+        <td>
+            <img src="https://img.shields.io/badge/IBM_MQ-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
+            <img src="https://img.shields.io/badge/IBM_ACE-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
+            <img src="https://img.shields.io/badge/API_Connect-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
+            <img src="https://img.shields.io/badge/DataPower-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
+        </td>
+    </tr>
+    <tr>
+        <td align="center"><b>Event Streaming</b></td>
+        <td>
+            <img src="https://img.shields.io/badge/Confluent_Kafka-000000?style=for-the-badge&logo=confluent&logoColor=white" />
+            <img src="https://img.shields.io/badge/Apache_Flink-E6526F?style=for-the-badge&logo=apacheflink&logoColor=white" />
+        </td>
+    </tr>
+    <tr>
+        <td align="center"><b>Container Platform</b></td>
+        <td>
+            <img src="https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white" />
+            <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
         </td>
     </tr>
     <tr>
